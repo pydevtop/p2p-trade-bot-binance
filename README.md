@@ -1,5 +1,5 @@
 # P2P Trade Bot Binance
- P2P Trade Bot Binance - This is automated trading and hold a position in the glass
+ P2P Trade Bot Binance - This is automated trading and hold a position in the glass<br>
  P2PTradeBot - follows competitors' prices and changes prices in your ads making them more beneficial for the user than others
 
 ### Additional Information
