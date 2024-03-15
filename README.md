@@ -8,6 +8,10 @@
 
 <img id="main_image_73" src="https://py-dev.top/components/com_jshopping/files/img_products/full_thumb_ex650_botp2p.png" alt="P2P Trade Bot Binance" title="P2P Trade Bot Binance">
 
+#### Demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gpsGdiBdFSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
  #### Installing
 Instructions for installing and configuring the P2P Trade Bot Binance
 To manage the Binance P2P bot software, you need to create and connect a telegram bot
