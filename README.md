@@ -41,7 +41,7 @@ Go to the P2PTradeBot folder and click on the start.bat file to start the bot
 ### Additional Information
 System requirements: Windows 10/11, Python 3.x.x
 
-## Buy a subscription to Binance P2P Bot
+## Buy to P2P Trade Bot Binance
 https://py-dev.top/en/application-software/p2p-trade-bot-binance
 
 ## Contacts
