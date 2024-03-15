@@ -9,8 +9,8 @@
 <img id="main_image_73" src="https://py-dev.top/components/com_jshopping/files/img_products/full_thumb_ex650_botp2p.png" alt="P2P Trade Bot Binance" title="P2P Trade Bot Binance">
 
 #### Demo
-[![P2P Trade Bot Binance](https://py-dev.top/images/p2ptradebot/p2ptradebot.png)](https://www.youtube.com/watch?v=gpsGdiBdFSA)
-<a href="https://www.youtube.com/watch?v=gpsGdiBdFSA" target="_blank"><img src="https://img.youtube.com/vi/gpsGdiBdFSA/0.jpg" alt="Video" style="width:560px;height:315px;"></a>
+
+<a href="https://www.youtube.com/watch?v=gpsGdiBdFSA" target="_blank"><img src="https://img.youtube.com/vi/gpsGdiBdFSA/0.jpg" alt="P2PTradeBot" style="width:259px;height:194px;"></a>
 
 
 
