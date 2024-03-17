@@ -6,6 +6,8 @@
  This bot also has a name - step or follow the competitor's price, because the bot will beat the prices of sellers according to the criteria you specify in the bot settings, and your ad will always be more profitable for the 
  user
 
+ Can pursue a specific seller or only seller merchants, or pursue all sellers, filtering out only by the minimum ad amount
+
 <img id="main_image_73" src="https://py-dev.top/components/com_jshopping/files/img_products/full_thumb_ex650_botp2p.png" alt="P2P Trade Bot Binance" title="P2P Trade Bot Binance">
 
 #### Demo
