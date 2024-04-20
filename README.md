@@ -42,7 +42,7 @@ In this bot, you can configure each ad according to different criteria:
 
 #### New version of Bot:
 
-<a href="https://www.youtube.com/watch?v=NDMAyKulNr8" target="_blank"><img src="https://img.youtube.com/vi/gpsGdiBdFSA/0.jpg" alt="P2PTradeBot" style="width:259px;height:194px;"></a>
+<a href="https://www.youtube.com/watch?v=NDMAyKulNr8" target="_blank"><img src="https://img.youtube.com/vi/NDMAyKulNr8/0.jpg" alt="P2PTradeBot" style="width:259px;height:194px;"></a>
 
  #### Installing
 Instructions for installing and configuring the P2P Trade Bot Binance
