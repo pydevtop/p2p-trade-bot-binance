@@ -14,9 +14,6 @@
 Advantages of the P2P Trade Bot in trading on the Binance cryptocurrency exchange:
 The bot is multi-processor - this allows the bot to efficiently process large amounts of data and perform tasks in the background
 
-Can pursue a specific seller or only seller merchants, or pursue all sellers, filtering out only by the minimum ad amount
-
- 
 
 In this bot, you can configure each ad according to different criteria:
  
