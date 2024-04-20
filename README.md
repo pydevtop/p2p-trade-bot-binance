@@ -10,12 +10,39 @@
 
 <img id="main_image_73" src="https://py-dev.top/components/com_jshopping/files/img_products/full_thumb_ex650_botp2p.png" alt="P2P Trade Bot Binance" title="P2P Trade Bot Binance">
 
+
+Advantages of the P2P Trade Bot in trading on the Binance cryptocurrency exchange:
+The bot is multi-processor - this allows the bot to efficiently process large amounts of data and perform tasks in the background
+
+Can pursue a specific seller or only seller merchants, or pursue all sellers, filtering out only by the minimum ad amount
+
+ 
+
+In this bot, you can configure each ad according to different criteria:
+ 
+
+<b>Number One</b> Function: This function enables autopilot trading. It places your ad at the top of the order book  and constantly keeps it in the first position (Top 1)
+
+<b>Competitor</b> Function: This function allows you to track a specific competitor. The bot will continuously adjust your price to compete with the specified competitor.
+
+<b>Filter</b> Function: This function is based on the volume of assets in the ad. The bot will prioritize ads that match your specified volume criteria.
+
+<b>Threshold</b> Function: This function sets a price threshold above which the bot will not place a price if you are buying cryptocurrencies, or below which if you are selling.
+
+<b>Payment Methods</b> Function: This function filters ads based on accepted payment methods.
+
+<b>Merchant or All Users</b> Function: This function filters ads based on the type of seller. It can follow only merchants or all sellers.
+
+<img id="main_image_73" src="https://py-dev.top/images/p2ptradebot/menu_bot.jpg" alt="P2P Trade Bot Binance" title="P2P Trade Bot Binance">
+
 #### Demo
+
 
 <a href="https://www.youtube.com/watch?v=gpsGdiBdFSA" target="_blank"><img src="https://img.youtube.com/vi/gpsGdiBdFSA/0.jpg" alt="P2PTradeBot" style="width:259px;height:194px;"></a>
 
+#### New version of Bot:
 
-
+<a href="https://www.youtube.com/watch?v=NDMAyKulNr8" target="_blank"><img src="https://img.youtube.com/vi/gpsGdiBdFSA/0.jpg" alt="P2PTradeBot" style="width:259px;height:194px;"></a>
 
  #### Installing
 Instructions for installing and configuring the P2P Trade Bot Binance
