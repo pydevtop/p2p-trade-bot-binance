@@ -79,5 +79,5 @@ System requirements: Windows 10/11, Python 3.x.x
 https://py-dev.top/en/application-software/p2p-trade-bot-binance
 
 ## Contacts
-Telegram: @morgan_sql
+Telegram: @morgan_sql<br>
 Telegram channel:   https://t.me/py_developers
