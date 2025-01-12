@@ -63,7 +63,7 @@ We create or take existing API Key and Secret Key to connect to the Binance API 
 
 APIKey and Secret Key also need to be copied and added to the bot configuration file config.ini
 #### 3. Install Python
-Detailed instructions on how to install Python on Windows: https://py-dev.top/en/installing-python
+Detailed instructions on how to install Python on Windows: https://py-dev.top/installing-python
 
 Go to the settings of the bot itself
 
@@ -76,7 +76,7 @@ Go to the P2PTradeBot folder and click on the start.bat file to start the bot
 System requirements: Windows 10/11, Python 3.x.x
 
 ## Buy P2P Trade Bot Binance
-https://py-dev.top/en/application-software/p2p-trade-bot-binance
+https://py-dev.top/application-software/p2p-trade-bot-binance
 
 ## Contacts
 Telegram: @morgan_sql<br>
