@@ -77,8 +77,23 @@ In the folder of drive C: unpack the archive P2PTradeBot.zip
 
 Go to the P2PTradeBot folder and click on the start.bat file to start the bot
 
-### Additional Information
-System requirements: Windows 10/11, Python 3.x.x
+## ✅ System Requirements
+
+### 🖥️ Operating System
+- Windows 10/11  
+- macOS  
+- Linux (Ubuntu, Debian, etc.)
+
+### 🐍 Python Version
+- Python 3.10 or higher
+
+### 📄 Description
+- The bot is written in **pure Python** and is **fully cross-platform**.
+- Compatible with all major desktop operating systems.
+- Only the **startup method** may vary slightly depending on the platform:
+  - `.bat` file for **Windows**
+  - `.sh` shell script for **Linux/macOS**
+
 
 ## Buy P2P Trade Bot Binance
 https://py-dev.top/application-software/p2p-trade-bot-binance
