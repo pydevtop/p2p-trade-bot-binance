@@ -77,6 +77,60 @@ In the folder of drive C: unpack the archive P2PTradeBot.zip
 
 Go to the P2PTradeBot folder and click on the start.bat file to start the bot
 
+```
+ 25/12/2025 – Version 1.0.9 (Critical Update) 
+ Important: P2P Ads Update
+
+- Binance has changed the logic for P2P advertisement ranking and updates.  
+- The bot behavior has been updated to correctly sync prices, limits, and ad status according to the new API rules.  
+- An advanced configuration mode has been implemented: settings can be applied globally to all banks or individually per bank (as in version 1.0.7).  
+- Fixed issues where ads could stop updating, lose ranking, or become desynchronized.  
+- This update is mandatory to keep ads visible, competitive, and operating reliably.
+```
+```
+08/02/2026 – Version 2.0.0  
+
+BTC Restriction Check
+
+- A full check for BTC position restrictions has been added using the Binance P2P API.  
+- If a competitor’s advertisement requires a BTC balance, that advertisement is excluded from price calculations.  
+- The bot does not compete with sellers who cannot actually execute trades.  
+- This prevents incorrect price drops and preserves a realistic and stable trading strategy.  
+```
+```
+ Seller Activity Check (Beta)  
+- A real activity check for sellers on the Binance platform has been added.  
+- If a seller remains inactive for more than 20 minutes, the bot skips price updates based on that advertisement.  
+- This prevents competition with inactive or non-responsive listings.  
+- This feature is currently in Beta and may be refined in future versions.
+```
+```
+ 14/02/2026 – Version 2.1.0  
+
+Smart Self-Detection (User ID Based)  
+- The bot now identifies your own advertisements using your Binance User ID instead of your nickname.  
+- Your User ID is automatically detected and securely saved at startup.  
+- No manual configuration is required.  
+- Eliminates self-competition and prevents incorrect price calculations.  
+- Significantly improves trading accuracy and positioning logic.  
+
+Dedicated Ads Synchronization Module  
+- A new separate script for ads synchronization has been introduced.  
+- Advertisement management is now fully decoupled from the core trading engine.  
+- Improves performance, stability, and update flexibility.  
+- Prepares the system for future advanced advertisement automation features.  
+
+Improved Start & Restart Stability  
+- Enhanced process management for cleaner startup and restart behavior.  
+- Previous bot instances are now properly closed before launching a new session.  
+- Eliminates duplicate Telegram polling conflicts (Error 409).  
+- Prevents multiple browser instances from running simultaneously.  
+- Ensures a smoother, more stable operational cycle — even after freezes or unexpected interruptions.  
+
+```
+
+
+
 ## ✅ System Requirements
 
 ### 🖥️ Operating System
