@@ -8,7 +8,7 @@
 
  Can pursue a specific seller or only seller merchants, or pursue all sellers, filtering out only by the minimum ad amount
 
-<img id="main_image_73" src="https://py-dev.top/components/com_jshopping/files/img_products/full_thumb_ex650_botp2p.png" alt="P2P Trade Bot Binance" title="P2P Trade Bot Binance">
+<img id="main_image_73" src="https://py-dev.top/components/com_jshopping/files/img_products/thumb_Binance-P2P-Trading-Bot-top1.png" alt="P2P Trade Bot Binance" title="P2P Trade Bot Binance">
 
 
 Advantages of the P2P Trade Bot in trading on the Binance cryptocurrency exchange:
