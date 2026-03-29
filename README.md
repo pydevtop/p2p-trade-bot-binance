@@ -34,7 +34,7 @@ The bot is multi-processor - this allows the bot to efficiently process large am
 
 #### Demo
 
-#### P2P Bot Binance for MacOs:
+#### Binance P2P arbitrage bot:
 
 <a href="https://www.youtube.com/watch?v=xoh3P3f1yGI" target="_blank"><img src="https://img.youtube.com/vi/xoh3P3f1yGI/0.jpg" alt="P2PTradeBot" style="width:259px;height:194px;"></a>
 
