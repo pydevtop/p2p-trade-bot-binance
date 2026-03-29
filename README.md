@@ -8,7 +8,7 @@
 
  Can pursue a specific seller or only seller merchants, or pursue all sellers, filtering out only by the minimum ad amount
 
-<img id="main_image_73" src="https://py-dev.top/components/com_jshopping/files/img_products/thumb_Binance-P2P-Trading-Bot-top1.png" alt="P2P Trade Bot Binance" title="P2P Trade Bot Binance">
+<img id="main_image_73" src="https://py-dev.top/components/com_jshopping/files/img_products/Market-Following_P2P_Strategy.png" alt="P2P Trade Bot Binance" title="P2P Trade Bot Binance">
 
 
 Advantages of the P2P Trade Bot in trading on the Binance cryptocurrency exchange:
@@ -36,7 +36,7 @@ The bot is multi-processor - this allows the bot to efficiently process large am
 
 #### P2P Bot Binance for MacOs:
 
-<a href="https://www.youtube.com/watch?v=7oaUozbw4po" target="_blank"><img src="https://img.youtube.com/vi/7oaUozbw4po/0.jpg" alt="P2PTradeBot" style="width:259px;height:194px;"></a>
+<a href="https://www.youtube.com/watch?v=xoh3P3f1yGI" target="_blank"><img src="https://img.youtube.com/vi/xoh3P3f1yGI/0.jpg" alt="P2PTradeBot" style="width:259px;height:194px;"></a>
 
 #### P2P Bot Binance for Windows:
 
@@ -128,8 +128,66 @@ Improved Start & Restart Stability
 - Ensures a smoother, more stable operational cycle — even after freezes or unexpected interruptions.  
 
 ```
+## 🚀 29/03/2026 – Version 2.2.0
 
+### ⚡ Dynamic Market Strategy (New Core Logic)
+- Introduced fully dynamic price recalculation on every cycle  
+- The bot now moves with the market instead of using static pricing  
+- Continuously adapts to live market conditions  
+- Ensures every trade stays within a profitable threshold  
 
+---
+
+### 🧠 Counter Order Book Strategy
+- Works strictly from the opposite side of the order book  
+- Buy → analyzes sellers | Sell → analyzes buyers  
+- Uses real executable market prices instead of passive competition  
+- Improves pricing accuracy and market positioning  
+
+---
+
+### 📊 Altcoin Pricing Logic Upgrade
+- Integrated spot-based price calculation (USDT + fiat rate)  
+- Includes Binance fees and target profit (%)  
+- Calculates maximum safe entry price  
+- Prevents unprofitable trades in volatile markets  
+
+---
+
+### 💵 Stablecoin Dynamic Logic
+- Dynamic threshold recalculation based on market price  
+- Tracks selected order book position in real time  
+- Updates pricing every cycle using fees and fixed profit  
+- Ensures stable and consistent spread trading  
+
+---
+
+### 🎯 Competitor-Only Mode
+- Ability to target specific traders  
+- Filters out all other market participants  
+- Provides precise control over pricing strategy  
+
+---
+
+### 🛡️ Profit Protection System
+- All calculations include Binance fees and profit margin  
+- Blocks unprofitable trades automatically  
+- Maintains mathematically safe execution  
+
+---
+
+### 🔁 Real-Time Market Adaptation
+- Recalculates prices, thresholds, and positions every cycle  
+- Fully synchronized with market movement  
+- Eliminates static pricing behavior  
+
+---
+
+### 💎 Summary
+Version 2.2.0 introduces a fully dynamic pricing system where the bot:
+- moves with the market  
+- adapts in real time  
+- and always operates within a profitable range  
 
 ## ✅ System Requirements
 
