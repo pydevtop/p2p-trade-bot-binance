@@ -166,7 +166,6 @@ Telegram: @morgan_sql<br>
 
 ####  Similar developments:
 ******************************************************************************
-P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
 
 ### Related Binance P2P Automation Tool
 
