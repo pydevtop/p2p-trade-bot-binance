@@ -1,5 +1,20 @@
 # Binance P2P Trading Bot – Price Tracking & Ad Automation
 
+## 🌍 Available Documentation
+
+| Language     | Documentation |
+| ------------ | ------------- |
+| 🇺🇸 English | README.md     |
+| 🇪🇸 Español | README_ES.md  |
+
+---
+### Spanish Documentation
+
+Looking for a Binance P2P Bot, Binance P2P Automation, Repricing Binance P2P or Competitor Tracking solution in Spanish?
+
+👉 Read the full Spanish documentation: [README_ES.md](README_ES.md)
+
+
 P2P Trade Bot for Binance is a Binance P2P bot designed for automated price tracking and ad management.
 
 It monitors competitor ads in real time and automatically updates your prices to keep your offers competitive and visible at the top of Binance P2P listings.
