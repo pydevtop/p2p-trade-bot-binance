@@ -51,7 +51,7 @@ You can:
 - **High Performance Engine**  
   Efficiently processes large volumes of P2P ads  
 
-<img id="main_image_73" src="https://py-dev.top/components/com_jshopping/files/img_products/Market-Following_P2P_Strategy.png" alt="P2P Trade Bot Binance" title="P2P Trade Bot Binance">
+<img id="main_image_73" src="https://py-dev.top/components/com_jshopping/files/img_products/full_Market-Following_P2P_Strategy.png" alt="P2P Trade Bot Binance" title="P2P Trade Bot Binance">
 
 
 Advantages of the P2P Trade Bot in trading on the Binance cryptocurrency exchange:
