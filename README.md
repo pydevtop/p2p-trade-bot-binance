@@ -1,11 +1,13 @@
 # Binance P2P Trading Bot – Price Tracking & Ad Automation
 
+
 ## 🌍 Available Documentation
 
-| Language     | Documentation |
-| ------------ | ------------- |
-| 🇺🇸 English | README.md     |
-| 🇪🇸 Español | README_ES.md  |
+| Language | Documentation |
+|----------|---------------|
+| 🇺🇸 English | [README.md](README.md) |
+| 🇪🇸 Español (LATAM) | [README_ES.md](README_ES.md) |
+
 
 ---
 ### Spanish Documentation
