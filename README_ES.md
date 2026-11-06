@@ -6,6 +6,13 @@ Binance P2P Trade Bot es un software profesional de automatización para Binance
 
 A diferencia de muchas plataformas SaaS, este bot se instala en tu propio ordenador, VPS o servidor, ofreciendo control total sobre la infraestructura, los datos y las estrategias de trading.
 
+## 🌍 Documentación disponible
+
+| Idioma | Documentación |
+|--------|---------------|
+| 🇺🇸 English | [README.md](README.md) |
+| 🇪🇸 Español (LATAM) | [README_ES.md](README_ES.md) |
+
 ---
 
 ## ¿Por Qué Elegir Binance P2P Trade Bot?
